@@ -10,7 +10,7 @@ class main {
         Box mybox = new Box ();
         double vol;
         // assign values to mybox's instance variables
-mybox.width = 10;
+mybox.width = 20;
 mybox.height = 20;
 mybox.depth = 15;
 // compute volume of box
